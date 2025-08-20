@@ -1,0 +1,21 @@
+# --- Python ---
+# Virtual Environments
+.venv/
+venv/
+job-scraper/
+
+# Cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# --- Secrets ---
+.env
+
+# --- IDE / Editor Files ---
+# JetBrains (PyCharm, IntelliJ)
+/.idea/
+*.iml
+
+Thumbs.db
