@@ -75,7 +75,7 @@ The `Makefile` provides commands to run the entire pipeline or individual parts.
     ```sh
     make all
     ```
-  - **Initialize the database and table:**
+  - **Initialize the database and table (Part 1):**
     ```sh
     make setup
     ```
