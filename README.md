@@ -35,7 +35,7 @@ Follow these instructions to get the project set up and running on your local ma
 
     ```sh
     git clone https://github.com/athrvas/Python-JobScraper.git
-    cd your-repository
+    cd Python-JobScraper
     ```
 
 2.  **Create and Activate a Virtual Environment**
