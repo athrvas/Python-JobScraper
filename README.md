@@ -52,10 +52,7 @@ Follow these instructions to get the project set up and running on your local ma
     This project uses a `requirements.txt` file to manage its packages.
 
     ```sh
-    # If you haven't created the file yet, run this first:
-    # pip freeze > requirements.txt
-
-    pip install -r requirements.txt
+     pip install -r requirements.txt
     ```
 
 4.  **Configure Environment Variables**
