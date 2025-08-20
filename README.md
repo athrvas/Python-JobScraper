@@ -34,7 +34,7 @@ Follow these instructions to get the project set up and running on your local ma
 1.  **Clone the Repository**
 
     ```sh
-    git clone https://github.com/athrvas/Atharvas_Submission.git
+    git clone https://github.com/athrvas/Python-JobScraper.git
     cd your-repository
     ```
 
